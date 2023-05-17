@@ -1,0 +1,15 @@
+C:\Users\forre\source\repos\TaskTrackerApp2\bin\Debug\net6.0\TaskTrackerApp2.exe
+C:\Users\forre\source\repos\TaskTrackerApp2\bin\Debug\net6.0\TaskTrackerApp2.deps.json
+C:\Users\forre\source\repos\TaskTrackerApp2\bin\Debug\net6.0\TaskTrackerApp2.runtimeconfig.json
+C:\Users\forre\source\repos\TaskTrackerApp2\bin\Debug\net6.0\TaskTrackerApp2.dll
+C:\Users\forre\source\repos\TaskTrackerApp2\bin\Debug\net6.0\TaskTrackerApp2.pdb
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.csproj.AssemblyReference.cache
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.AssemblyInfoInputs.cache
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.AssemblyInfo.cs
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.csproj.CoreCompileInputs.cache
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.dll
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\refint\TaskTrackerApp2.dll
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.pdb
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\TaskTrackerApp2.genruntimeconfig.cache
+C:\Users\forre\source\repos\TaskTrackerApp2\obj\Debug\net6.0\ref\TaskTrackerApp2.dll
